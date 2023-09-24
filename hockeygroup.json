@@ -1,0 +1,27 @@
+{
+	"groupName": "All Starts",
+	"groupList": "Teenagers",
+	"formed": 2020,
+	"City": "Upper Town",
+	"active": true,
+	"member": [
+	{
+		"name": "Muhammad",
+		"age": 17,
+		"specialty":[
+			"Very quick",
+			"Rapid movement",
+			"High intensity"
+		]
+	},
+	{
+		"name": "Ah Chong",
+		"age": 18,
+		"specialty":[
+			"Very quick",
+			"Rapid movement",
+			"High intensity"
+		]
+	}
+	]
+}
